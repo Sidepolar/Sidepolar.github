@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Family Pictures</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="header">
+        <h1> 
+            A Saddler Family
+            <p>
+                Halloween 2020
+            </p>
+        </h1>
+
+    </div>
+    <main>
+        <div class="container">
+            <div class="Anniversary">
+                <a href="https://photos.app.goo.gl/sUu6xLaJKUMVxRmQ7">
+                <img src="/Images/20201006_204144.jpg" width="350"height="450"  alt="">
+                    <div class="text">
+                    Anniversary
+                    </div>
+                </a>
+            </div>
+
+            <div class="zanes-birthday">          
+                <a href="https://photos.app.goo.gl/xwSduRuW5JKsoxwJ8">
+                <img src="/Images/Onewithbaloons.JPG" width="350" height= "450" alt="">
+                </a>
+            </div>
+            
+            <div class="empty"></div>
+              
+            <div class="dallas-trip">
+                <a href="https://photos.app.goo.gl/aNCWfGg4foW8TPS1A">
+                <img src="/Images/windy.jpg" width="350" height="450" alt="">
+            
+                </a>
+            </div>
+
+            <div class="mothers-day">
+                <a href="https://photos.app.goo.gl/ykMAA3UM36zRuBzL9">
+                <img src="/Images/GMD2020.JPG" width="350" height="450" alt="">
+                </a>
+                
+            </div>
+
+            <div class="random-favorites">
+                <a href="https://photos.app.goo.gl/JA9qPNKaBoji6YVi7">
+                <img src="/Images/closeup.JPG" width="350" height="450" alt="">
+                </a>
+            </div>
+            <div class="empty"></div>
+            <div class="christmas">
+                <a href="https://photos.app.goo.gl/XtQ1EMtdJbdNZUmU6">
+                <img src="/Images/BWTree.jpg" width="350" height="450" alt="">
+                </a>
+            </div>
+        </div>  
+    </div>
+</body>
+</html>
